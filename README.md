@@ -11,7 +11,7 @@ Project that asks for the names of two people and calculates the percentage of "
 
 - Open Visual Studio, VS Code or any other support that uses the C# language.
 - Compile and run the code.
-- Follow the instructions in the Console to enter your weight and height.
+- Follow the instructions in the Console to answer the name of the two people.
 
 # How faithful is this project?
 
